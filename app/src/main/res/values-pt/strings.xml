@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VSS WeatherApp</string>
+    <string name="temperature_unit">Unidade de temperatura</string>
+    <string name="celcius">ºC</string>
+    <string name="farenheight">ºF</string>
+    <string name="description_language">Idioma da descrição</string>
+    <string name="english">EN</string>
+    <string name="portuguese">PT</string>
+    <string name="wind">vento</string>
+    <string name="clouds">nuvens</string>
+    <string name="no_internet">Sem conexão com internet</string>
+    <string name="settings">Configurações</string>
+</resources>
